@@ -3,3 +3,13 @@
     height:100px;
     background:black;
 }
+
+.bordino
+{
+    border-style: dotted;
+    border-color: red blue orange green;
+    border-top-width:15px;
+    border-right-width:10px;
+    border-bottom-width:15px;
+    border-left-width:10px;
+}
